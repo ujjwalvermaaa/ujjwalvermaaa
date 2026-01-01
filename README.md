@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=950&lines=Hi+I'm+Ujjwal+Verma+👋;Data+Analyst+|+Aspiring+Data+Scientist;Customer+%26+Business+Analytics;Python+|+SQL+|+Power+BI+|+Snowflake+|+AWS+|+Azure" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+I'm+Ujjwal+Verma+👋;Data+Analyst+|+Aspiring+Data+Science;Frontend+→+Data+Analytics+Journey;Python+|+SQL+|+Power+BI+|+Excel+|+Snowflake+|+AWS+|+Azure" />
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ## 🚀 About Me  
 
-> I analyze data to understand customers, reduce churn, and improve business outcomes.
+> I combine frontend experience with data analytics to turn raw data into clear business decisions.
 
 - 📊 **Data Analyst | Aspiring Data Scientist**
-- 🔍 Focused on **Customer Behaviour, Retention & Financial Analytics**
-- 🧠 Strong foundation in **Python, SQL, BI & Statistics**
+- 🔁 Transitioned from **Frontend Development → Data Analytics**
+- 🧠 Strong in **Python, SQL, BI, Databases & Statistics**
 - 🎯 **Career Goal: Data Analyst / Data Scientist**
 
 👨‍💻 GitHub → https://github.com/ujjwalvermaaa  
@@ -29,7 +29,7 @@
 
 ### 🔹 Data Science & Analytics
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **SQL** (Joins, CTEs, Window Functions, Aggregations)
+- **SQL** (MySQL, **PostgreSQL**)
 - **Power BI** (DAX, Data Modeling, Dashboards)
 - **Advanced Excel** (Pivot Tables, Power Query, Lookups)
 - **Statistics** (Descriptive & Inferential)
@@ -37,12 +37,14 @@
 - **Customer & Churn Analytics**
 - **Snowflake | AWS | Azure**
 
-### 🔹 Frontend Development
+### 🔹 Frontend Development (Previous Experience)
 - **HTML5, CSS3, JavaScript (ES6+)**
 - **React.js**
 - **Tailwind CSS**
 - Bootstrap  
-- Clean UI & dashboard-friendly layouts
+- Responsive UI & dashboard-friendly layouts
+
+> *Frontend background helps me build better dashboards and communicate insights clearly.*
 
 ---
 
@@ -51,6 +53,7 @@
 ### 📊 Data / Cloud
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
@@ -76,26 +79,24 @@
 ### 💰 **FinTime – Customer Financial Behaviour Analytics**
 **Domain:** FinTech | Customer Analytics  
 
-- Analyzed customer transaction & spending behaviour over time  
-- Identified **high-value customers, spending patterns & risk segments**  
-- Designed **KPI-driven dashboards** for financial decision-making  
-- Delivered actionable insights on customer behaviour & financial trends  
+- Analyzed customer transaction & spending behaviour  
+- Identified **high-value customers, patterns & risk segments**  
+- Built **KPI-driven Power BI dashboards**  
+- Delivered actionable financial insights  
 
-**Tech Stack:** Python (EDA) • SQL • Power BI • Advanced Excel  
-📌 *End-to-end project with datasets, notebooks, SQL scripts & dashboards*
+**Tech Stack:** Python • SQL • PostgreSQL • Power BI • Excel  
 
 ---
 
 ### 🔁 **RetainX – Customer Retention & Churn Analytics**
 **Domain:** Customer Analytics | Business Intelligence  
 
-- Performed churn analysis to identify **at-risk customers**  
-- Discovered key churn drivers using behavioural & transactional data  
-- Built **retention-focused metrics** and interactive dashboards  
-- Provided **business recommendations** to reduce customer churn  
+- Identified **churn drivers & at-risk customers**  
+- Performed retention & behavioural analysis  
+- Built interactive dashboards with churn KPIs  
+- Provided **business recommendations**  
 
-**Tech Stack:** Python • SQL • Power BI • Statistics  
-📌 *Includes churn KPIs, segmentation & insight documentation*
+**Tech Stack:** Python • SQL • PostgreSQL • Power BI • Statistics  
 
 ---
 
@@ -108,8 +109,7 @@
 ---
 
 
-
-
+---
 
 ## 📫 Let’s Connect  
 
