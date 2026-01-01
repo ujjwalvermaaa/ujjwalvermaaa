@@ -13,11 +13,12 @@
 ---
 
 ## 🚀 About Me  
+
 > I analyze data to understand customers, reduce churn, and improve business outcomes.
 
 - 📊 **Data Analyst | Aspiring Data Scientist**
 - 🔍 Focused on **Customer Behaviour, Retention & Financial Analytics**
-- 🧠 Strong in **Python, SQL, BI & Analytics**
+- 🧠 Strong foundation in **Python, SQL, BI & Statistics**
 - 🎯 **Career Goal: Data Analyst / Data Scientist**
 
 👨‍💻 GitHub → https://github.com/ujjwalvermaaa  
@@ -27,18 +28,27 @@
 ## 🧠 Skills Snapshot
 
 ### 🔹 Data Science & Analytics
-- **Python, SQL**
-- **Power BI**
+- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL** (Joins, CTEs, Window Functions, Aggregations)
+- **Power BI** (DAX, Data Modeling, Dashboards)
 - **Advanced Excel** (Pivot Tables, Power Query, Lookups)
 - **Statistics** (Descriptive & Inferential)
 - **EDA & Business Metrics**
 - **Customer & Churn Analytics**
 - **Snowflake | AWS | Azure**
 
+### 🔹 Frontend Development
+- **HTML5, CSS3, JavaScript (ES6+)**
+- **React.js**
+- **Tailwind CSS**
+- Bootstrap  
+- Clean UI & dashboard-friendly layouts
+
 ---
 
 ## 🛠️ Tools & Technologies  
 
+### 📊 Data / Cloud
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
@@ -50,21 +60,47 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
 </p>
 
+### 🌐 Frontend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+</p>
+
 ---
 
 ## 🚀 Featured Projects  
 
 ### 💰 **FinTime – Customer Financial Behaviour Analytics**
-- Transaction & spending pattern analysis  
-- KPI-driven financial insights  
+**Domain:** FinTech | Customer Analytics  
+
+- Analyzed customer transaction & spending behaviour over time  
+- Identified **high-value customers, spending patterns & risk segments**  
+- Designed **KPI-driven dashboards** for financial decision-making  
+- Delivered actionable insights on customer behaviour & financial trends  
+
+**Tech Stack:** Python (EDA) • SQL • Power BI • Advanced Excel  
+📌 *End-to-end project with datasets, notebooks, SQL scripts & dashboards*
+
+---
 
 ### 🔁 **RetainX – Customer Retention & Churn Analytics**
-- Identified churn drivers & high-risk customers  
-- Retention-focused business recommendations  
+**Domain:** Customer Analytics | Business Intelligence  
+
+- Performed churn analysis to identify **at-risk customers**  
+- Discovered key churn drivers using behavioural & transactional data  
+- Built **retention-focused metrics** and interactive dashboards  
+- Provided **business recommendations** to reduce customer churn  
+
+**Tech Stack:** Python • SQL • Power BI • Statistics  
+📌 *Includes churn KPIs, segmentation & insight documentation*
 
 ---
 
 ## 📊 GitHub Activity  
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ujjwalvermaaa&theme=tokyonight&hide_border=true"/>
 </p>
@@ -73,5 +109,10 @@
 
 
 
+
+
+## 📫 Let’s Connect  
+
 📧 **ujjwalvermauv2004@gmail.com**  
-🔗 https://www.linkedin.com/in/ujjwalvermaaa/
+🔗 LinkedIn: https://www.linkedin.com/in/ujjwalvermaaa/  
+💻 GitHub: https://github.com/ujjwalvermaaa
