@@ -114,5 +114,4 @@
 ## 📫 Let’s Connect  
 
 📧 **ujjwalvermauv2004@gmail.com**  
-🔗 LinkedIn: https://www.linkedin.com/in/ujjwalvermaaa/  
 💻 GitHub: https://github.com/ujjwalvermaaa
