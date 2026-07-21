@@ -1,117 +1,234 @@
+<div align="center">
+
+# Hi 👋, I'm Ujjwal Verma
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer+Intern+(Data+Science);AI+%26+Machine+Learning+Engineer;Generative+AI+Developer;Building+LLMs+%7C+RAG+%7C+Agentic+AI;Python+%7C+Machine+Learning+%7C+Data+Science" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a3d3b-54a9-4a74-8c2f-2db4d67d2d2b.gif" width="850"/>
+
+![](https://komarev.com/ghpvc/?username=ujjwalvermaaa&style=for-the-badge&color=blue)
+
+</div>
+
+---
+
+# 💫 About Me
+
+🎓 B.Tech CSE (Data Science)
+
+💻 Software Engineer Intern (Data Science)
+
+🤖 Passionate about Machine Learning, Deep Learning and Generative AI
+
+🧠 Building intelligent systems using
+
+- LLMs
+- Agentic AI
+- LangChain
+- LangGraph
+- RAG
+- TensorFlow
+- Computer Vision
+
+📊 I enjoy solving real-world business problems with Data Science and AI.
+
+🚀 Currently learning advanced LLM Fine-tuning and AI Agents.
+
+---
+
+# 🚀 Tech Stack
+
+## Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgresql"/>
+</p>
+
+## AI • Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LangGraph-1976D2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OCR-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/YOLO-FF4081?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Data Analytics
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel"/>
+
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake"/>
+
+</p>
+
+---
+
+## Frameworks
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,git,github,vscode"/>
+
+</p>
+
+---
+
+## Cloud
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,azure"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 FoundrAI
+
+> AI Product & Startup Studio
+
+✔ Multi-Agent AI System
+
+✔ LLM Workflows
+
+✔ Agentic AI
+
+✔ LangGraph
+
+✔ LangChain
+
+✔ FastAPI
+
+✔ Streamlit
+
+---
+
+## 🏥 PharmX AI
+
+> Healthcare Intelligence Platform
+
+✔ Disease Prediction
+
+✔ Medicine Demand Forecasting
+
+✔ Outbreak Risk Prediction
+
+✔ NLP
+
+✔ Deep Learning
+
+✔ TensorFlow
+
+---
+
+## 📺 YouTube Content Intelligence
+
+✔ LLM Classification
+
+✔ Fine-Tuning
+
+✔ NLP
+
+✔ Synthetic Dataset Generation
+
+✔ OCR
+
+---
+
+## 📈 Customer Analytics Platform
+
+✔ Churn Prediction
+
+✔ Customer Segmentation
+
+✔ Business Intelligence
+
+✔ Power BI
+
+✔ SQL
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ujjwalvermaaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalvermaaa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ujjwalvermaaa&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ujjwalvermaaa&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+I'm+Ujjwal+Verma+👋;Data+Analyst+|+Aspiring+Data+Science;Frontend+→+Data+Analytics+Journey;Python+|+SQL+|+Power+BI+|+Excel+|+Snowflake+|+AWS+|+Azure" />
-</p>
 
-<p align="center">
-  <img src="https://i.redd.it/n8agw6z2smyb1.gif" width="800"/>
-</p>
+<a href="mailto:ujjwalvermauv2004@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ujjwalvermaaa&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
+<a href="https://github.com/ujjwalvermaaa">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
----
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-## 🚀 About Me  
-
-> I combine frontend experience with data analytics to turn raw data into clear business decisions.
-
-- 📊 **Data Analyst | Aspiring Data Scientist**
-- 🔁 Transitioned from **Frontend Development → Data Analytics**
-- 🧠 Strong in **Python, SQL, BI, Databases & Statistics**
-- 🎯 **Career Goal: Data Analyst / Data Scientist**
-
-👨‍💻 GitHub → https://github.com/ujjwalvermaaa  
-
----
-
-## 🧠 Skills Snapshot
-
-### 🔹 Data Science & Analytics
-- **Python** (Pandas, NumPy, Matplotlib, Seaborn)
-- **SQL** (MySQL, **PostgreSQL**)
-- **Power BI** (DAX, Data Modeling, Dashboards)
-- **Advanced Excel** (Pivot Tables, Power Query, Lookups)
-- **Statistics** (Descriptive & Inferential)
-- **EDA & Business Metrics**
-- **Customer & Churn Analytics**
-- **Snowflake | AWS | Azure**
-
-### 🔹 Frontend Development (Previous Experience)
-- **HTML5, CSS3, JavaScript (ES6+)**
-- **React.js**
-- **Tailwind CSS**
-- Bootstrap  
-- Responsive UI & dashboard-friendly layouts
-
-> *Frontend background helps me build better dashboards and communicate insights clearly.*
-
----
-
-## 🛠️ Tools & Technologies  
-
-### 📊 Data / Cloud
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
-</p>
-
-### 🌐 Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+<div align="center">
 
-### 💰 **FinTime – Customer Financial Behaviour Analytics**
-**Domain:** FinTech | Customer Analytics  
+### ⭐ Thanks for visiting my profile!
 
-- Analyzed customer transaction & spending behaviour  
-- Identified **high-value customers, patterns & risk segments**  
-- Built **KPI-driven Power BI dashboards**  
-- Delivered actionable financial insights  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0066FF&height=120&section=footer"/>
 
-**Tech Stack:** Python • SQL • PostgreSQL • Power BI • Excel  
-
----
-
-### 🔁 **RetainX – Customer Retention & Churn Analytics**
-**Domain:** Customer Analytics | Business Intelligence  
-
-- Identified **churn drivers & at-risk customers**  
-- Performed retention & behavioural analysis  
-- Built interactive dashboards with churn KPIs  
-- Provided **business recommendations**  
-
-**Tech Stack:** Python • SQL • PostgreSQL • Power BI • Statistics  
-
----
-
-## 📊 GitHub Activity  
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ujjwalvermaaa&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-
----
-
-## 📫 Let’s Connect  
-
-📧 **ujjwalvermauv2004@gmail.com**  
-💻 GitHub: https://github.com/ujjwalvermaaa
+</div>
