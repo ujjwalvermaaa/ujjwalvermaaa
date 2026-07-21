@@ -161,36 +161,6 @@ Building AI-powered applications using:
 
 ---
 
-# 🚀 Current Interests
-
-```text
-🧠 Generative AI
-███████████████████████████
-
-🤖 Machine Learning
-███████████████████████████
-
-⚡ Agentic AI
-███████████████████████
-
-🔗 LangGraph
-██████████████████████
-
-📚 Retrieval-Augmented Generation
-█████████████████████
-
-👁 Computer Vision
-████████████████████
-
-📝 Natural Language Processing
-████████████████████
-
-📊 Data Science
-██████████████████████████
-```
-
----
-
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -394,9 +364,8 @@ Machine learning platform for customer segmentation, retention prediction, finan
 │
 ├── 📈 Business Analyst Intern
 │
-├── 💻 Software Engineer Intern (Data Science)
-│
-└── 🚀 Building AI, ML & Generative AI Solutions
+├── 💻 Software Engineer Intern
+
 ```
 
 ---
@@ -415,63 +384,6 @@ Machine learning platform for customer segmentation, retention prediction, finan
 
 </div>
 
----
-
-<div align="center">
-
-# 🔥 GitHub Streak
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📊 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions to generate this animation automatically.
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"/>
-
-</div>
-
-<div align="center">
-
-## 💡 "Code. Learn. Build. Repeat."
-
-</div>
-
----
 
 <div align="center">
 
@@ -503,27 +415,6 @@ Machine learning platform for customer segmentation, retention prediction, finan
 
 </div>
 
----
-
-# 📜 Certifications
-
-<div align="center">
-
-| Certification | Status |
-|---------------|--------|
-| 📊 Data Analytics | ✅ |
-| 🧠 Machine Learning | ✅ |
-| 🤖 Deep Learning | ✅ |
-| 🚀 Generative AI | ✅ |
-| 🔗 LangChain | ✅ |
-| 🌐 LangGraph | ✅ |
-| 🗄 SQL | ✅ |
-| 📈 Power BI | ✅ |
-| 🐍 Python | ✅ |
-
-</div>
-
----
 
 # 🎯 Current Goals
 
@@ -558,36 +449,6 @@ Machine learning platform for customer segmentation, retention prediction, finan
 | Multi-Agent Systems | ML Optimization | Deployment |
 
 </div>
-
----
-
-# ⚡ AI Areas of Interest
-
-```text
-Artificial Intelligence        ████████████████████████████
-
-Machine Learning               ████████████████████████████
-
-Deep Learning                  ██████████████████████████
-
-Generative AI                  ███████████████████████████
-
-Large Language Models          █████████████████████████
-
-LangChain                      ████████████████████████
-
-LangGraph                      ████████████████████████
-
-RAG                            ███████████████████████
-
-Computer Vision                ██████████████████████
-
-Natural Language Processing    ██████████████████████
-
-Backend APIs                   ████████████████████
-```
-
----
 
 # 💡 Fun Facts
 
