@@ -4,11 +4,10 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="100%" />
-
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ad50585b-2e08-4f45-9836-9bb6d67e2a86" width="800">
 <br><br>
 
-**Delhi, India · Open to Remote · Available for Opportunities — 2026**
+**Delhi, India · Open to Work · Available for Opportunities — 2026**
 
 <br>
 
@@ -68,11 +67,13 @@ I don't just build models — I build **systems that ship impact**. From multi-a
 </td>
 <td align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="320">
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400">
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="280">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+<br><br>
+
 
 </td>
 </tr>
