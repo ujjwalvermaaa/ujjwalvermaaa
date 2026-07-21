@@ -1,81 +1,135 @@
 <div align="center">
 
-# Hi 👋, I'm Ujjwal Verma
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Ujjwal+Verma;Software+Engineer+Intern+(Data+Science);AI+%7C+Machine+Learning+Engineer;Generative+AI+Developer;Building+LLMs+%7C+RAG+%7C+Agentic+AI" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer+Intern+(Data+Science);AI+%26+Machine+Learning+Engineer;Generative+AI+Developer;Building+LLMs+%7C+RAG+%7C+Agentic+AI;Python+%7C+Machine+Learning+%7C+Data+Science" />
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-2d7a3d3b-54a9-4a74-8c2f-2db4d67d2d2b.gif" width="850"/>
+<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-50b1-45e2-a693-d19d40357766.gif" width="100%" />
 
-![](https://komarev.com/ghpvc/?username=ujjwalvermaaa&style=for-the-badge&color=blue)
+<br><br>
+
+![](https://komarev.com/ghpvc/?username=ujjwalvermaaa&label=Profile+Views&color=0e75b6&style=for-the-badge)
+![](https://img.shields.io/github/followers/ujjwalvermaaa?style=for-the-badge)
+![](https://img.shields.io/github/stars/ujjwalvermaaa?style=for-the-badge)
 
 </div>
 
 ---
 
-# 💫 About Me
+# <img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" width="35"> About Me
 
-🎓 B.Tech CSE (Data Science)
+<table>
+<tr>
 
-💻 Software Engineer Intern (Data Science)
+<td width="58%">
 
-🤖 Passionate about Machine Learning, Deep Learning and Generative AI
+### 👋 Hello!
 
-🧠 Building intelligent systems using
+I'm **Ujjwal Verma**, a **Software Engineer Intern (Data Science)** passionate about solving real-world problems using **Artificial Intelligence**, **Machine Learning**, and **Generative AI**.
 
-- LLMs
-- Agentic AI
-- LangChain
-- LangGraph
-- RAG
-- TensorFlow
-- Computer Vision
+I enjoy building intelligent systems that go beyond prediction—from **LLMs and RAG pipelines** to **multi-agent AI applications** and end-to-end ML solutions.
 
-📊 I enjoy solving real-world business problems with Data Science and AI.
+### 🚀 Current Focus
 
-🚀 Currently learning advanced LLM Fine-tuning and AI Agents.
+- 🤖 Generative AI
+- 🧠 Large Language Models
+- 🔗 LangChain
+- 🌐 LangGraph
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚡ Agentic AI
+- 📊 Machine Learning
+- 🧠 Deep Learning
+- 👁 Computer Vision
+- 📝 NLP
+- 🚀 FastAPI
+- 🎨 Streamlit
 
 ---
 
-# 🚀 Tech Stack
+### 🎓 Education
 
-## Programming
+**B.Tech — Computer Science (Data Science)**
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgresql"/>
-</p>
+---
 
-## AI • Machine Learning
+### 💼 Currently
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+💻 Software Engineer Intern (Data Science)
+
+Building AI-powered applications using:
+
+- Python
+- TensorFlow
+- Scikit-Learn
+- LangChain
+- LangGraph
+- PostgreSQL
+- FastAPI
+
+</td>
+
+<td>
+
+<img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="320">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35"> Tech Stack
+
+<div align="center">
+
+## 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,postgresql" />
+
+<br><br>
+
+## 🤖 AI • Machine Learning • Deep Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+<br>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/LangChain-00C853?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LangGraph-1976D2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-2962FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/RAG-6A1B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-673AB7?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LLMs-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-00BCD4?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/OCR-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-4CAF50?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/YOLO-FF4081?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/YOLO-E91E63?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/OCR-607D8B?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## Data Analytics
+# 📊 Data Science & Analytics
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
 
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
 
@@ -83,152 +137,68 @@
 
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake"/>
 
-</p>
+</div>
 
 ---
 
-## Frameworks
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,streamlit,docker,git,github,vscode"/>
-
-</p>
-
----
-
-## Cloud
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,azure"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 FoundrAI
-
-> AI Product & Startup Studio
-
-✔ Multi-Agent AI System
-
-✔ LLM Workflows
-
-✔ Agentic AI
-
-✔ LangGraph
-
-✔ LangChain
-
-✔ FastAPI
-
-✔ Streamlit
-
----
-
-## 🏥 PharmX AI
-
-> Healthcare Intelligence Platform
-
-✔ Disease Prediction
-
-✔ Medicine Demand Forecasting
-
-✔ Outbreak Risk Prediction
-
-✔ NLP
-
-✔ Deep Learning
-
-✔ TensorFlow
-
----
-
-## 📺 YouTube Content Intelligence
-
-✔ LLM Classification
-
-✔ Fine-Tuning
-
-✔ NLP
-
-✔ Synthetic Dataset Generation
-
-✔ OCR
-
----
-
-## 📈 Customer Analytics Platform
-
-✔ Churn Prediction
-
-✔ Customer Segmentation
-
-✔ Business Intelligence
-
-✔ Power BI
-
-✔ SQL
-
----
-
-# 📈 GitHub Analytics
+# ☁️ Frameworks • Cloud • Tools
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ujjwalvermaaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,vscode" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ujjwalvermaaa&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
 
 </div>
 
 ---
 
+# 🚀 Current Interests
+
+```text
+🧠 Generative AI
+███████████████████████████
+
+🤖 Machine Learning
+███████████████████████████
+
+⚡ Agentic AI
+███████████████████████
+
+🔗 LangGraph
+██████████████████████
+
+📚 Retrieval-Augmented Generation
+█████████████████████
+
+👁 Computer Vision
+████████████████████
+
+📝 Natural Language Processing
+████████████████████
+
+📊 Data Science
+██████████████████████████
+```
+
+---
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ujjwalvermaaa&theme=tokyonight&hide_border=true"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ujjwalvermaaa&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:ujjwalvermauv2004@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/ujjwalvermaaa">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:0066FF&height=120&section=footer"/>
+### 💡 *"Turning data into intelligence and ideas into AI-powered solutions."*
 
 </div>
